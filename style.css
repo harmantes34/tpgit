@@ -1,0 +1,17 @@
+
+h1 {
+display:flex;
+justify-content: center;
+flex-direction: column;
+color: red;
+}
+
+
+.suggestion:hover {
+
+}
+
+
+#suggestions {
+
+}
